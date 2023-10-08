@@ -92,6 +92,7 @@ public class Main {
         System.out.println( rez1 + "дней, если теряет по 250 гр в сутки" + rez2 +
                 " дней, если теряет 500 гр в сутки" ) ;
 
+
         // Задача 8
 
         double masha= 67_760;
