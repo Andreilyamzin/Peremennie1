@@ -31,7 +31,8 @@ public class Main {
         System.out.println(u);
         byte p = 67;
         System.out.println(p);
-        
+
+
         // Задача 3
 
         byte lyudmila = 23;
